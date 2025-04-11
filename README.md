@@ -17,7 +17,7 @@ Snow is a Discord chatbot developed by me aka **owlwaystired**, based on the cha
 ## Legal
 
 - [Privacy Policy](./privacy-policy.md)
-- [Terms of Service](./terms-of-service.html)
+- [Terms of Service](./terms-of-service.md)
 
 ---
 
